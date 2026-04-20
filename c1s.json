@@ -1,1 +1,24 @@
-dummy-file
+{
+  "response": [
+    {
+      "maintainer": "",
+      "currently_maintained": false,
+      "oem": "Samsung",
+      "device": "Galaxy Note20 5G",
+      "filename": "EvolutionX-16.0-20260420-c1s-11.6.3-Unofficial.zip",
+      "download": "",
+      "timestamp": 1776717780,
+      "md5": "8eb9a4a3141cf883f6789ac7d2a11ec5",
+      "sha256": "2f251c318b318ae378ee94b27d09573ff458c3a88a72ad5d6371f1092a0c5974",
+      "size": 2359033951,
+      "version": "11.6.3",
+      "buildtype": "user",
+      "forum": "https://xdaforums.com/t/c1s-rom-16-2-unofficial-evolution-x-11-6-3-04-16-26.4785880/",
+      "firmware": "",
+      "paypal": "miguel03barreto@gmail.com",
+      "github": "https://github.com/miguelbarretoo",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
